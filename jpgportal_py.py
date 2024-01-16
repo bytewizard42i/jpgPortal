@@ -1,6 +1,6 @@
 # 1st attempt at creating a jpg with an iperceptible QR code overlayed.  
 
-pip install pillow qrcode
+# pip install pillow qrcode
 
 from PIL import Image, ImageDraw, ImageOps
 import qrcode
