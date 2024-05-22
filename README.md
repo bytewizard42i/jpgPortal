@@ -1,5 +1,5 @@
 # jpgPortal
-## jpgPortal is a QR generator which takes a jpg (and other photo standards, perhaps ping and others) and overlays an inperceptible QR code which a camera can detect, but not the human eye. 
+## jpgPortal is a QR generator which takes a jpg (and other photo standards, perhaps png and others) and overlays an inperceptible QR code which a camera can detect, but not the human eye. 
 The photo is known to have this code because it will have a special colored (flourescent green)  
 border with 3 squares in the corners for orientation, as is the QR standard. 
 This system makes for a very unobstrusive way to attach a very recognizable photo as a link for access. There may be a way to make the jpgportal objects the thumbnial for a file or folder connected to the link. I wonder if it couldnt have its own extension. 
